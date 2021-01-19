@@ -1,0 +1,12 @@
+C:\Users\sprathipati\source\repos\EmployeeDAL\EmployeeBAL\bin\Debug\netcoreapp3.1\EmployeeBAL.deps.json
+C:\Users\sprathipati\source\repos\EmployeeDAL\EmployeeBAL\bin\Debug\netcoreapp3.1\EmployeeBAL.dll
+C:\Users\sprathipati\source\repos\EmployeeDAL\EmployeeBAL\obj\Debug\netcoreapp3.1\EmployeeBAL.csprojAssemblyReference.cache
+C:\Users\sprathipati\source\repos\EmployeeDAL\EmployeeBAL\obj\Debug\netcoreapp3.1\EmployeeBAL.AssemblyInfoInputs.cache
+C:\Users\sprathipati\source\repos\EmployeeDAL\EmployeeBAL\obj\Debug\netcoreapp3.1\EmployeeBAL.AssemblyInfo.cs
+C:\Users\sprathipati\source\repos\EmployeeDAL\EmployeeBAL\bin\Debug\netcoreapp3.1\EmployeeBAL.pdb
+C:\Users\sprathipati\source\repos\EmployeeDAL\EmployeeBAL\bin\Debug\netcoreapp3.1\EmployeeDAL.dll
+C:\Users\sprathipati\source\repos\EmployeeDAL\EmployeeBAL\bin\Debug\netcoreapp3.1\EmployeeDAL.pdb
+C:\Users\sprathipati\source\repos\EmployeeDAL\EmployeeBAL\obj\Debug\netcoreapp3.1\EmployeeBAL.csproj.CoreCompileInputs.cache
+C:\Users\sprathipati\source\repos\EmployeeDAL\EmployeeBAL\obj\Debug\netcoreapp3.1\EmployeeBAL.csproj.CopyComplete
+C:\Users\sprathipati\source\repos\EmployeeDAL\EmployeeBAL\obj\Debug\netcoreapp3.1\EmployeeBAL.dll
+C:\Users\sprathipati\source\repos\EmployeeDAL\EmployeeBAL\obj\Debug\netcoreapp3.1\EmployeeBAL.pdb
